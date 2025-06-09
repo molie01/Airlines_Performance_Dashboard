@@ -4,7 +4,7 @@
   <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=E3F2FD&height=200&section=header&text=Airline%20Insights%20%7C%20Power%20BI%20Business%20Dashboard&fontSize=32&fontAlign=50&fontAlignY=30&desc=Empowering%20Travel%20Decisions%20Through%20Interactive%20Analytics&descAlign=50&descAlignY=50&animation=fadeIn">
 </p>
 
-## 🎯 Project Overview
+## 🎯 Project Objective
 This project delivers a clean, interactive Power BI dashboard that helps businesses and travelers compare airline performance based on cost, customer satisfaction, and route efficiency. Designed for non-technical stakeholders, the dashboard provides actionable insights without requiring any coding or advanced technical knowledge.
 
 ---
@@ -15,12 +15,13 @@ This project delivers a clean, interactive Power BI dashboard that helps busines
 
 ---
 
-## 📌 Business Questions Answered
+## 📌 Key Questions Answered
 - Which airlines offer the best balance between cost and customer satisfaction?
 - How do prices and travel durations vary by airline and route?
 - Are longer routes always more expensive, or do patterns differ by carrier?
 - Which carriers consistently maintain high ratings across long distances?
 - What insights can help business travel departments or clients optimize spend and time?
+- Dashboard Interaction [View Dashboard](#dashboard)
 
 ---
 
@@ -32,7 +33,7 @@ This project delivers a clean, interactive Power BI dashboard that helps busines
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 <a id="dashboard">Dashboard Preview</a>
 
 [🔗 Download Power BI Dashboard (.pbix)](https://github.com/molie01/Airlines_Performance_Dashboard/blob/main/Airlines%20Performance%20Dashboard.pbix)
 
