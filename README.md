@@ -1,4 +1,4 @@
-# ✈️ Airline Cost & Performance Dashboard (Power BI)
+# ✈️ Airline Performance Dashboard (Power BI)
 
 <p align="center">
   <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=f6f4ef&height=200&section=header&text=Airline%20Insights%20%7C%20Power%20BI%20Business%20Dashboard&fontSize=32&fontAlign=50&fontAlignY=30&desc=Empowering%20Travel%20Decisions%20Through%20Interactive%20Analytics&descAlign=50&descAlignY=50&animation=fadeIn">
