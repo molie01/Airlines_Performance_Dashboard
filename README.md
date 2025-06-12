@@ -1,7 +1,7 @@
 # ✈️ Airline Performance Dashboard (Power BI)
 
 <p align="center">
-  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=f6f4ef&height=200&section=header&text=Airline%20Insights%20%7C%20Power%20BI%20Business%20Dashboard&fontSize=32&fontAlign=50&fontAlignY=30&desc=Empowering%20Travel%20Decisions%20Through%20Interactive%20Analytics&descAlign=50&descAlignY=50&animation=fadeIn">
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=f6f4ef&height=200&section=header&text=Airline%20Insights%20%7C%20Power%20BI%20Dashboard&fontSize=30&fontAlign=50&fontAlignY=30&desc=Empowering%20Travel%20Decisions%20Through%20Interactive%20Analytics&descAlign=50&descAlignY=50&animation=fadeIn">
 </p>
 
 ## 🎯 Project Objective
@@ -15,7 +15,7 @@ This project delivers a clean, interactive Power BI dashboard that helps busines
 
 ---
 
-## 📌 Key Questions Answered
+## ❓ Key Questions Answered
 - Which airlines offer the best balance between cost and customer satisfaction?
 - How do prices and travel durations vary by airline and route?
 - Are longer routes always more expensive, or do patterns differ by carrier?
@@ -43,7 +43,7 @@ This project delivers a clean, interactive Power BI dashboard that helps busines
 
 ---
 
-## 💡 Key Insights
+## 🔍 Key Insights
 - Certain mid-tier airlines offer excellent value with **lower cost and high customer ratings**
 - **Morning departures** are generally more punctual and cost-effective
 - **KLM** and **Oman Air** show variation in pricing despite long-haul consistency
